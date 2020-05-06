@@ -1,0 +1,54 @@
+
+.menu
+{
+	text-decoration: none;
+    color: lightskyblue;
+    font-size: 30px;
+    float: right;
+    text-shadow: black 1px 1px;
+}
+body
+{
+	color: black; 
+}
+.parti_principale p
+{
+	color: white;
+	font-size: 25px;
+	font-family: "Georgia"
+}
+.menu a
+{
+   text-decoration: none;
+   color: inherit;
+	
+}
+.fond_decran
+{
+   background: url("image/background_index.png") center bottom;
+   position: fixed;
+   width: 100vw;
+   height: 100vh;
+   z-index: -1;
+   background-size: cover;
+   top: 0;
+   left: 0;
+}
+header h1
+{
+    text-shadow: black 1px 1px;
+	color: LightSkyBlue;
+	text-align:center;
+	font-size: 55px;
+}
+.illustration
+{
+	float: left;
+    margin-right: 25px;
+    margin-bottom: 20px;
+}
+.parti_principale
+{
+	max-width: 1200px;
+    margin: auto;
+}
